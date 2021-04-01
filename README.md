@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chetan-khachane
 - 👀 I’m interested in Machine learning/AI,Web development.
-- 🌱 I’m currently learning in 10th grade.
+- 🌱 I’m currently learning.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 

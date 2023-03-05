@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Chetan-khachane
-- 👀 I’m interested in Machine learning/AI,Web development.
+- 👀 I’m interested in Machine learning/AI,Game Development,cloud computing.
 - 🌱 I’m currently learning.
 - 💞️ I’m looking to collaborate on open source software development.
 - 📫 How to reach me by email : chetankhachanep655@gmail.com

@@ -80,4 +80,13 @@ Feel free to explore my pinned repositories and reach out anytime.
 
 [![](https://visitcount.itsvg.in/api?id=Chetan-khachane&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM -->
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Chetan-khachane&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Chetan-khachane&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Chetan-khachane&icon=0&color=0)](https://visitcount.itsvg.in)
+
+

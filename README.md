@@ -1,5 +1,55 @@
-# 💫 About Me:
-# 👋 Hi, I'm Chetan Khachane<br><br>Studying Computer Engineering,University of Mumbai, India.  <br>I work across full-stack development, mobile app development, and emerging fields like AI/ML and game development.<br><br>---<br><br>### 💼 What I Do<br><br>- Build  applications with modern tooling and clean architecture.<br>- Develop mobile applications with Flutter and integrate backend APIs.<br>- Explore machine learning models and computer vision.<br>- Currently expanding into **game development** and real-time systems.<br><br>---<br><br>### 🛠️  📌 Selected Projects<br><br>- **ChatX** — React, Firebase, Tailwind  <br>  Real-time messaging system with authentication, media handling, and clean UI.<br><br>- **Society Management App** — Flutter, Node.js, MySQL  <br>  Complete workflow application with user authentication, dashboard, marketplace, and visitor logging.<br><br>- **Plant Disease Detection App** — Deep Learning + React  <br>  Image-based plant disease classification using a pretrained ConvNextV2 model.<br><br>- **Event Management Platform** — Flutter, Firebase, Maps API  <br>  Location-based vendor discovery and customizable event planning.<br><br><br><br>---<br><br>### 📈 Interests & Current Focus<br><br>- Full-stack engineering (scalable systems & clean UX)<br>- Game development fundamentals (C++ + UE ecosystem)<br>- AI/ML applications and applied computer vision<br><br>---<br><br>### 🤝 Collaboration<br><br>Open to:  <br>• Internships  <br>• Open-source contributions  <br>• Team projects  <br>• Tech discussions  <br><br>---<br><br>### 📬 Connect<br><br>Feel free to reach out or explore pinned repositories for my work.<br>
+## 👋 Hi, I'm Chetan Khachane
+
+Computer Engineering student — University of Mumbai, India.  
+I work across full-stack development, mobile applications, and emerging fields such as AI/ML and game development.
+
+---
+
+### 💼 What I Do
+
+- Build applications with modern tooling and clean architecture  
+- Develop mobile apps with Flutter and integrated backend APIs  
+- Explore machine learning and computer vision  
+- Expanding into **game development** and real-time systems  
+
+---
+
+### 🛠️ Selected Projects
+
+- **ChatX** — React, Firebase, Tailwind  
+  Real-time messaging system with authentication, media handling, and a clean UI.
+
+- **Society Management App** — Flutter, Node.js, MySQL  
+  User authentication, dashboards, marketplace, and visitor logging.
+
+- **Plant Disease Detection App** — Deep Learning + React  
+  Image-based plant disease classification using ConvNextV2.
+
+- **Event Management Platform** — Flutter, Firebase, Maps API  
+  Vendor discovery with location services and customizable event planning.
+
+---
+
+### 📈 Interests & Current Focus
+
+- Full-stack engineering (clean architecture & scalable systems)  
+- Game development fundamentals (C++ + Unreal Engine concepts)  
+- AI/ML and applied computer vision  
+
+---
+
+### 🤝 Collaboration Opportunities
+
+- Internships  
+- Open-source contributions  
+- Team projects  
+- Technical collaboration  
+
+---
+
+### 📬 Connect
+
+Feel free to explore my pinned repositories and reach out anytime.
 
 
 ## 🌐 Socials:

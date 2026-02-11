@@ -9,7 +9,7 @@ I worked across full-stack development, mobile applications, and emerging fields
 
 ### 🛠️ Selected Projects
 
---**Peerwire** — NextJS,Shadcn,C++
+ -**Peerwire** — NextJS,Shadcn,C++
    Torrent Downloading client based on BitTorrent Protocol includes simultaneous downloading, multithreaded architecture, self-made Bencode Parser, File Saving manager, use of TCP protocol,etc implemented
   
 - **ChatX** — React, Firebase, Tailwind  

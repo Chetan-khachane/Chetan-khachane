@@ -1,23 +1,19 @@
 ## 👋 Hi, I'm Chetan Khachane
 
-Computer Engineering student — University of Mumbai, India.  
-I work across full-stack development, mobile applications, and emerging fields such as AI/ML and game development.
+Computer Engineering student  
+I worked across full-stack development, mobile applications, and emerging fields such as AI/ML and game development.
 
 ---
 
-### 💼 What I Do
 
-- Build applications with modern tooling and clean architecture  
-- Develop mobile apps with Flutter and integrated backend APIs  
-- Explore machine learning and computer vision  
-- Expanding into **game development** and real-time systems  
-
----
 
 ### 🛠️ Selected Projects
 
+--**Peerwire** — NextJS,Shadcn,C++
+   Torrent Downloading client based on BitTorrent Protocol includes simultaneous downloading, multithreaded architecture, self-made Bencode Parser, File Saving manager, use of TCP protocol,etc implemented
+  
 - **ChatX** — React, Firebase, Tailwind  
-  Real-time messaging system with authentication, media handling, and a clean UI.
+  Real-time messaging chatting web app with authentication, media handling, and a clean UI.
 
 - **Society Management App** — Flutter, Node.js, MySQL  
   User authentication, dashboards, marketplace, and visitor logging.
@@ -32,9 +28,9 @@ I work across full-stack development, mobile applications, and emerging fields s
 
 ### 📈 Interests & Current Focus
 
-- Full-stack engineering (clean architecture & scalable systems)  
+- Full-stack Web Development 
 - Game development fundamentals (C++ + Unreal Engine concepts)  
-- AI/ML and applied computer vision  
+- AI/ML 
 
 ---
 
